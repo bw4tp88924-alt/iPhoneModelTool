@@ -34,6 +34,7 @@ Built with **Python standard libraries only**, this tool requires no external pa
 ## How To Use
 
 * Un-zip folder to a known location (ie. Documents)
+  * MD5 hash `8c7ab9a141f8a2da762642eb0848a358`
 * Open Command Prompt and navigate to folder where files are saved (ie. `cd C:\Users\\**[USER]**\Documents\iPhoneModelTool`)
 * run the following command: `python iPhone_quiz.py`
 * answer questions until final results are given 
